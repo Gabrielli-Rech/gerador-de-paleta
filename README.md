@@ -1,3 +1,25 @@
+## 🎨 Gerador de Paleta
+
+Uma ferramenta interativa para gerar paletas de cores personalizadas, desenvolvida com React. Ideal para designers, desenvolvedores e criadores de conteúdo que buscam combinar cores harmoniosas para seus projetos.
+
+## 🚀 Funcionalidades
+
+Geração Aleatória de Cores: Crie paletas únicas com um clique.
+
+Personalização: Ajuste o número de cores na paleta.
+
+Copia Fácil: Copie os códigos das cores para uso imediato.
+
+Interface Intuitiva: Design simples e fácil de usar.
+
+## 🧰 Tecnologias Utilizadas
+
+Frontend: React
+
+Gerenciamento de Pacotes: npm
+
+Estilos: CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
